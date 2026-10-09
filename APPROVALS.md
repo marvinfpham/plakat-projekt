@@ -1,0 +1,2 @@
+# Approvals
+2026-10-09: Owner replied “Proceed.” to the Stage A proposal in docs/research/STAGE_A.md, approving Stage B development of the proposed architecture. Scope: existing repository, Shopify 2.0 theme, small collection validation, supervised POD, later need-based dashboard/automation. Specific approvals for paid subscriptions, sample orders, public launch, advertising, production publishing and artwork versions are still absent. Exact future approvals must record action, asset/version, expected cost, approver, timestamp and scope.

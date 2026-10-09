@@ -1,0 +1,46 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "plakat-editorial",
+      "settings": {
+        "eyebrow": "PLAKATER MED PERSPEKTIV",
+        "heading": "Rum til at se nærmere.",
+        "body": "Originale plakater skabt med blik for form, sted og stemning. En ny samling er på vej.",
+        "button_label": "Udforsk plakater",
+        "button_link": "shopify://collections/all"
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Udvalgte værker",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "featured_collection"
+  ]
+}
